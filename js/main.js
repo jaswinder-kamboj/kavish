@@ -1,7 +1,7 @@
 (function () {
   "use strict";
 
-  var WEDDING_DATE = new Date("2027-02-14T00:00:00").getTime();
+  var WEDDING_DATE = new Date("2026-11-22T00:00:00").getTime();
   var GROOM_FIRST = "Kavish";
   var BRIDE_FIRST = "Preeti";
   var RSVP_TEMPLATE_KEY = "kabir_aira_rsvp_v1";
